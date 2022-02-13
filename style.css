@@ -1,0 +1,93 @@
+body,h1,h2,h3,h4,h5,h6{
+    font-family: 'Work Sans', sans-serif;
+}
+img{
+    max-width: 100% !important;
+}
+
+/**** BANNER SECTION START ****/
+.section-bg{
+    background: #6161c20e;
+}
+
+/**** BANNER SECTION END ****/
+
+
+
+/**** ABOUT SECTION START ****/
+.about a:hover{
+    background: #8490ff;
+    color: #fff !important;
+}
+
+/**** ABOUT SECTION END ****/
+
+
+/**** NUMBER COUNTER SECTION START ****/
+.number-counter-item .h3 {
+    font-size: 45px !important;
+}
+.nbc{
+    background: #8490ff;
+}
+/**** NUMBER COUNTER SECTION END ****/
+
+
+
+/**** HERO SECTION START ****/
+.hero a:hover{
+    background: #17a2b8;
+    color: #fff !important;
+}
+
+/**** HERO SECTION END ****/
+
+
+
+/**** CONTENT SECTION START ****/
+.contact-form-item .card button{
+    background: #6278df;
+    border: 1px solid #6278df;
+    transition: 0.5s;
+
+}
+.contact-form-item input:focus{
+    border: 1px solid #6278df;
+    box-shadow: 1px 1px 10px  #6278df;
+}
+.contact-form-item textarea:focus{
+    border: 1px solid #6278df;
+    box-shadow: 1px 1px 10px  #6278df;
+}
+.contact-form-item .card button:hover{
+    background: #fff;
+    color: #6278df;
+    box-shadow: 1px 1px 10px  #6278df;
+}
+/**** CONTENT SECTION END ****/
+
+
+
+/**** SERVICE SECTION START ****/
+.btn-bor{
+    border: 1px solid#bcc5f0 !important;
+}
+/**** SERVICE SECTION END ****/
+
+
+
+/**** CONTENT SECTION START ****/
+.btn-bg{
+    background: #17a2b8;
+}
+
+/**** CONTENT SECTION END ****/
+
+
+
+/**** FOOTER SECTION START ****/
+.footer-bg{
+    background: #04091e;
+}
+
+/**** FOOTER SECTION END ****/
